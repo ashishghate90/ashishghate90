@@ -23,4 +23,5 @@ Bridging tech and business for successful product outcomes
 
 [![Email](https://img.shields.io/badge/Email-ashishghate90%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ashishghate90@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/](https://www.linkedin.com/in/ashish-ghate-a1952593))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashish-ghate-a1952593)
+
